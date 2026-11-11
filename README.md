@@ -23,6 +23,7 @@
   **Конец**
 
 ### Блок-схема[
+https://github.com/uliases00/domashnya-9/blob/main/dz9.png
 [https://github.com/uliases00/domashnya-9/blob/main/dz9.png]
 
 
